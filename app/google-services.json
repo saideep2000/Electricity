@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900659510662",
+    "firebase_url": "https://electricity-a87ce-default-rtdb.firebaseio.com",
+    "project_id": "electricity-a87ce",
+    "storage_bucket": "electricity-a87ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900659510662:android:6d520c10f1b9ebe7ea0007",
+        "android_client_info": {
+          "package_name": "com.saideep.electricity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900659510662-nh46dgpdq64ocm4pt609up7c6vvegrk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8sVZ0o0HAvgwNX5qa1_e-F9ZIaWSVVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900659510662-nh46dgpdq64ocm4pt609up7c6vvegrk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
